@@ -1,7 +1,7 @@
 
 <h1 align="center">Coding Cartel: Your Gateway to Open Source Contribution 🚀</h1>
 
-<p> <img src=""> </p>
+<p align="center"> <img src="https://github.com/Coding-Cartel/.github/blob/main/profile/banner1.png"> </p>
 
 <h2 align="center">Welcome to Coding Cartel – where coding meets collaboration, and open source thrives! 🌐</h2>
 
